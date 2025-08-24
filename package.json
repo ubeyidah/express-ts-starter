@@ -1,0 +1,20 @@
+{
+  "name": "express-ts-starter",
+  "version": "1.0.0",
+  "description": "express with typescirpt starter kit",
+  "keywords": [
+    "express",
+    "nodejs",
+    "typescript"
+  ],
+  "license": "ISC",
+  "author": "ubeyidah",
+  "type": "commonjs",
+  "main": "mian.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
