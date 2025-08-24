@@ -14,7 +14,7 @@
   ],
   "license": "ISC",
   "author": "ubeyidah",
-  "type": "commonjs",
+  "type": "module",
   "scripts": {
     "dev": "tsx --watch src/main.ts",
     "start": "node dist/main.js",

@@ -1,7 +1,7 @@
 import express from "express";
 
-import healthRoute from "@/routes/health.routes";
-import { env } from "@/utils/env.config";
+import healthRoute from "@/routes/health.routes.js";
+import { env } from "@/utils/env.config.js";
 
 const app = express();
 app.use(express.json());
